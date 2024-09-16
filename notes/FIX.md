@@ -1,0 +1,1 @@
+It's possible to prevent XSS by avoid allowing data from any untrusted source to be dynamically written to the HTML document.
